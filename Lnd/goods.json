@@ -1,0 +1,23 @@
+{
+    "1234" : {
+      "name" : "NOJE LIGHT",
+      "cost" : 1990,
+      "description" : "Интерьерный светильник",
+      "order" : 1,
+      "img" : "img\NÖJE LIGHT.jpg",
+    },
+    "1235" : {
+      "name" : "PARADISE",
+      "cost" : 2499,
+      "description" : "Светодиодная лампа",
+      "order" : 2,
+      "img" : "img\PARADISE.jpg",
+    },
+    "1236" : {
+      "name" : "TENDER",
+      "cost" : 1799,
+      "description" : "Светодиодная лампа",
+      "order" : 3,
+      "img" : "img\TENDER.jpg",
+    }
+}
